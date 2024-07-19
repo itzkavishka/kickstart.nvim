@@ -1,3 +1,3 @@
 ### ISSUES & FIXES
 
-1. Stylua failed to install error - Intall Unzip Package
+1. Stylua failed to install error - Install Unzip Package
